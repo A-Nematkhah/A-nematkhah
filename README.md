@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amirhossein&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amirhossein&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Mechatronics%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Reinforcement+Learning+%2B+LLMs;Autonomous+Driving+Research" alt="Typing SVG" />
 
@@ -111,37 +111,6 @@ open_to: [AI/ML Engineer, Applied Research Engineer, Robotics Software Engineer]
 
 ---
 
-## 💼 Experience
-
-### Industrial Designer
-**Mechatronic Mobtakeran Arg**
-
-- Mechanical & product development for laboratory printers, dental milling systems, and dental scanners
-
-`Mechanical Design` `Product Development`
-
-### Mechanical Designer & Engineer
-**Iranian Steel Development Group**
-
-- Industrial machinery design and manufacturing supervision for steel production line equipment
-
-`Industrial Systems` `Project Control`
-
-### Product Designer
-**NYOP — Netherlands**
-
-- Prototype development and CAD optimization for smart home products (smart insect trap, air quality monitoring)
-
-`Product Design` `IoT` `Sensor Integration`
-
----
-
-## 📜 Certifications
-
-![ML with Python](https://img.shields.io/badge/Mastering%20ML%20with%20Python-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Advanced Python RL](https://img.shields.io/badge/Advanced%20Python%20for%20RL-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
-
----
 
 ## 📊 GitHub Analytics
 

@@ -168,13 +168,13 @@ open_to: [AI/ML Engineer, Applied Research Engineer, Robotics Software Engineer]
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/A-Nematkhah/A-Nematkhah/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> Generated with [Platane/snk](https://github.com/Platane/snk). Workflow file included at `.github/workflows/snake.yml` — see `SETUP.md` for one-time setup.
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 

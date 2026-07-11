@@ -47,19 +47,6 @@ open_to: [AI/ML Engineer, Applied Research Engineer, Robotics Software Engineer]
 
 ---
 
-## 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Reinforcement Learning** | ⭐⭐⭐⭐⭐ | Reward-function design, reward shaping, policy optimization |
-| **LLM-Based Reward Shaping** | ⭐⭐⭐⭐⭐ | Using LLMs to generate & critique reward functions |
-| **Autonomous Systems** | ⭐⭐⭐⭐ | Mobile robotics, navigation, path planning |
-| **Intelligent Control** | ⭐⭐⭐⭐ | MPC, adaptive & robust control, sliding mode control |
-| **Sensor Fusion** | ⭐⭐⭐ | Multi-modal perception & state estimation |
-| **Robotics Safety** | ⭐⭐⭐ | Constrained learning systems |
-
----
-
 ## 🚀 Featured Projects
 
 <details open>
@@ -123,18 +110,6 @@ open_to: [AI/ML Engineer, Applied Research Engineer, Robotics Software Engineer]
 
 ---
 
-## 🏆 Trophies & Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=A-Nematkhah&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Nematkhah&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
@@ -144,16 +119,6 @@ open_to: [AI/ML Engineer, Applied Research Engineer, Robotics Software Engineer]
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
----
-
-## 🎯 Current Focus
-
-```yaml
-building:  [Text2Reward-RAG — LLM-evolved reward functions for autonomous driving]
-exploring: [Agentic AI systems, tool-augmented LLM workflows]
-open_to:   [AI/ML roles, applied research collaborations, open source]
-```
 
 ---
 
